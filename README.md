@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">Hello there! 🚀 I'm Hüseyin</h1>
+<h3 align="center">A Software Developer from Turkiye</h3>
 
 ![huseyinozdagli's github stats](https://github-readme-stats.vercel.app/api?username=huseyinozdagli&count_private=true&show_icons=true&theme=dracula)
 <br>
@@ -6,7 +7,11 @@
 
 
 
-
+- 🔬 I'm a student in Computer Engineering/Science at Bursa Uludag University.
+- 📚 Currently Working with **Java** and anything related with **Object Oriented**.
+- 🤖 I also interested about computer networks, blockchain, Ethereum and smart contracts with **Solidity**.
+- 🦾 I want improve myself to what i interest and love to do.
+- 📫 How to reach me **hozdagli467@gmail.com**
 
 
 
